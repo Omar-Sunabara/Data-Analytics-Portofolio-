@@ -1,4 +1,4 @@
-# 2019 Adventure Works  SQL Analysis
+
 
 # 2019 Adventure Works SQL & Python Analysis
 
